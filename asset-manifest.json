@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chess-game-using-React-Auto-playable-opponent-/static/css/main.3b0d09ed.css",
+    "main.js": "/Chess-game-using-React-Auto-playable-opponent-/static/js/main.9b8f8b2f.js",
+    "static/media/chesslogo.png": "/Chess-game-using-React-Auto-playable-opponent-/static/media/chesslogo.979ffc21b05686edfaec.png",
+    "static/media/backgroundimage.webp": "/Chess-game-using-React-Auto-playable-opponent-/static/media/backgroundimage.5da88fb08c98ca501840.webp",
+    "index.html": "/Chess-game-using-React-Auto-playable-opponent-/index.html",
+    "main.3b0d09ed.css.map": "/Chess-game-using-React-Auto-playable-opponent-/static/css/main.3b0d09ed.css.map",
+    "main.9b8f8b2f.js.map": "/Chess-game-using-React-Auto-playable-opponent-/static/js/main.9b8f8b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0d09ed.css",
+    "static/js/main.9b8f8b2f.js"
+  ]
+}
